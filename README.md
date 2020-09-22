@@ -1,6 +1,9 @@
 # Holistic Video Understanding Dataset
 
-This repository contains the Holistic Video Understanding Dataset. For more information regarding the dataset please check our [paper](https://arxiv.org/abs/1904.11451). 
+This repository contains the Holistic Video Understanding Dataset. For more information regarding the dataset please check our [paper](https://arxiv.org/abs/1904.11451).
+
+# Paper
+Large Scale Holistic Video Understanding, ECCV 2020
 
 If you use the HVU dataset, please cite our paper.
 
@@ -15,6 +18,9 @@ If you use the HVU dataset, please cite our paper.
 
 ## Usage
 We store the video IDs from Youtube and their annotations in CSV format.
+
+## Downloading Videos
+If you cannot download all of the videos using the downloader tool, please fill this [form](https://forms.gle/8qpoDaarjd7WNn7E7) to obtain the dataset.
 
 ## Dataset Downloader
 Check [HVU downloader instruction](https://github.com/holistic-video-understanding/HVU-Downloader) for easy way to download HVU.
