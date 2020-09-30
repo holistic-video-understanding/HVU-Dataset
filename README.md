@@ -1,6 +1,6 @@
 # Holistic Video Understanding Dataset
 
-This repository contains the Holistic Video Understanding Dataset. For more information regarding the dataset please check our [paper](https://arxiv.org/abs/1904.11451).
+This repository contains the Holistic Video Understanding Dataset. For more information regarding the dataset please check our [paper](https://pages.iai.uni-bonn.de/gall_juergen/download/HVU_eccv20.pdf) and [Supplementary Material](http://gall.cv-uni-bonn.de/download/HVU_suppl.pdf).
 
 # Paper
 Large Scale Holistic Video Understanding, ECCV 2020
