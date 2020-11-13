@@ -8,11 +8,13 @@ Large Scale Holistic Video Understanding, ECCV 2020
 If you use the HVU dataset, please cite our paper.
 
 ```latex
-@article{hvu2019,
+@inproceedings{hvu,
   title={Large Scale Holistic Video Understanding},
   author={Diba, Ali and Fayyaz, Mohsen and Sharma, Vivek and Paluri, Manohar and Gall, J{\"u}rgen and Stiefelhagen, Rainer and Van Gool, Luc},
-  journal={arXiv preprint arXiv:1904.11451},
-  year={2019}
+  booktitle={European Conference on Computer Vision},
+  pages={593--610},
+  year={2020},
+  organization={Springer}
 }
 ```
 
