@@ -21,8 +21,8 @@ If you use the HVU dataset, please cite our paper.
 ## Usage
 We store the video IDs from Youtube and their annotations in CSV format.
 
-## Downloading Videos
-If you cannot download all of the videos using the downloader tool, please fill this [form](https://forms.gle/8qpoDaarjd7WNn7E7) to obtain the dataset.
-
 ## Dataset Downloader
 Check [HVU downloader instruction](https://github.com/holistic-video-understanding/HVU-Downloader) for easy way to download HVU.
+
+## Accessing Missing Videos and Test Videos
+To access the Test videos and missing videos, please fill this [form](https://forms.gle/8qpoDaarjd7WNn7E7) to obtain the dataset.
