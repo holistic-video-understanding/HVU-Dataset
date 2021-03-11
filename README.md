@@ -19,7 +19,7 @@ If you use the HVU dataset, please cite our paper.
 ```
 
 ## Challenge
-The submission server of the "First International Challenge on Holistic Video Understanding" is now publicly open. The winners will be announced at our HVU #CVPR2021 workshop.
+The submission server of the "First International Challenge on Holistic Video Understanding" is now publicly open. The winners will be announced at our [HVU #CVPR2021 workshop](https://holistic-video-understanding.github.io/workshops/cvpr2021.html).
 Submission server: https://competitions.codalab.org/competitions/29546
 
 ## Usage
